@@ -2,7 +2,6 @@
 <h2 align="center">Currently learning CSS</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i= cpp,html,css" />
   </a>
 </p>
 
