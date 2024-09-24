@@ -1,2 +1,2 @@
 # brat
-[![brat](https://skillicons.dev/icons?i=cpp,python,html,css,windows&theme=light)](https://skillicons.dev)
+[![brat](https://skillicons.dev/icons?i=cpp,html,css,windows&theme=light)](https://skillicons.dev)
