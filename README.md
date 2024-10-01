@@ -13,5 +13,5 @@
 ### Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=nomaakip&limit=5&theme=aura&combine_all_yearly_contributions=true)
 
-  ## Help Me Get JetBrains Rider by Donating!
+  ## Wanna support me? You can Donate Here!
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/nomaaakip) 
