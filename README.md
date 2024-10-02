@@ -1,5 +1,5 @@
 # brat
-## Hi,Im Nomaakip! Im a high school student,i make some cool stuff im my free time!
+## Hi,I'm Nomaakip! I'm a high school student,i make some cool stuff im my free time!
 [![My Skills](https://skillicons.dev/icons?i=cpp,html,css,js,windows,vscode,discord)](https://skillicons.dev)
 
 ##  Socials:
