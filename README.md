@@ -1,5 +1,5 @@
 
-# Hi,I'm Nomaakip! I'm a high school student,i make some cool stuff im my free time!
+# swag
 [![My Skills](https://skillicons.dev/icons?i=cpp,html,css,js,ts,python,vscode)](https://skillicons.dev)
 
 ##  Socials:
