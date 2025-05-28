@@ -1,6 +1,6 @@
 
 # swag
-[![My Skills](https://skillicons.dev/icons?i=cpp,html,css,js,ts,python,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,html,css,js,ts,python,bootstrap,tailwind,firebase,nodejs,visualstudio,vite,vscode)](https://skillicons.dev)
 
 ##  Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/1069316238599266487) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@nomaakip) 
